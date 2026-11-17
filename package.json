@@ -1,0 +1,10 @@
+{
+  "name": "openapi-auth-coverage-analyzer",
+  "version": "0.1.0",
+  "description": "OpenAPI 鉴权覆盖分析器：合并全局与操作级安全要求，检查认证、授权 scope 与参数校验",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
